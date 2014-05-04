@@ -1,0 +1,1 @@
+Thread:	 gcc.exe expr.i -O3 -o expr.s
